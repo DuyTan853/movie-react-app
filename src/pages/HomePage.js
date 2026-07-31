@@ -34,6 +34,8 @@ const movies = [
       </div>
     );
   }
-  aaaaaaaaaaaaaaaaaaaaaaaaaaaasdfasdfasdf
+<<<<<<< HEAD
+=======
+>>>>>>> feature/home-page
   
   export default HomePage;
