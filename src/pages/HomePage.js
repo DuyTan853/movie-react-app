@@ -26,7 +26,7 @@ const movies = [
   
         {movies.map((movie) => (
           <div key={movie.id}>
-            <img src={movie.image} width="150" alt={movie.title} />
+            <img src={movie.image} width="250" alt={movie.title} />
             <h3>{movie.title}</h3>
             <p>{movie.desc}</p>
           </div>
